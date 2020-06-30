@@ -1,0 +1,29 @@
+{
+    {
+      "directory": "ruby2.5/cookiecutter-aws-sam-hello-ruby",
+      "displayName": "Hello World Example",
+      "dependencyManager": "bundler",
+      "appTemplate": "hello-world"
+    },
+    {
+      "directory": "ruby2.5/cookiecutter-aws-sam-step-functions-sample-app",
+      "displayName": "Step Functions Sample App (Stock Trader)",
+      "dependencyManager": "bundler",
+      "appTemplate": "step-functions-sample-app"
+    }
+  ],
+  "python3.7": [
+    {
+      "directory": "python3.7/six-demo",
+      "displayName": "Hello World Example",
+      "dependencyManager": "bundler",
+      "appTemplate": "hello-world"
+    },
+    {
+      "directory": "python3.7/seven-demo"",
+      "displayName": "Step Functions Sample App (Stock Trader)",
+      "dependencyManager": "bundler",
+      "appTemplate": "step-functions-sample-app"
+    }
+  ]
+}
