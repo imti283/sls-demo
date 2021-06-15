@@ -13,5 +13,5 @@ This template creates a Serverless Application that reacts to EC2 Instance State
 Access this template by running `sam init` and choosing it from the list of available templates
 
 # Credits
-
+#Dummy Test
 * This project has been generated with [Cookiecutter](https://github.com/audreyr/cookiecutter)
